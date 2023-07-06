@@ -34,7 +34,7 @@
     "sass-loader": "^12.1.0",
     "start-server-and-test": "^1.14.0",
     "tailwindcss": "^2.2.9",
-    "vite": "^2.5.1"
+    "vite": "^2.9.16"
   },
   "husky": {
     "hooks": {
