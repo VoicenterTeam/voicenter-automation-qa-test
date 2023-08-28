@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-    baseURL: 'https://voicenter-automation-qa-test-api.voicenter-ltd.workers.dev/api'
+    baseURL: 'https://voicenter-test-api.voicenter-ltd.workers.dev/api'
 })
 
 export function loginUser (credentials) {
